@@ -5,10 +5,13 @@ Aplicativo simples feito em **React Native com Expo** que gera senhas seguras de
 ---
 
 ## 📱 Preview
+<div>
+<img src="./prints-tela/tela1.jpg" alt="Preview do App" width="200" />
+<img src="./prints-tela/tela2.jpg" alt="Preview do App" width="200" />
+<img src="./prints-tela/tela3.jpg" alt="Preview do App" width="200" />
+</div>
 
-> *## 📱 Preview
 
-*
 
 ---
 
